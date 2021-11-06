@@ -10,7 +10,7 @@
 |
 */
 
-exi("testing");
+exit("testing");
 
 $location = str_replace('\\', '/', getcwd());
 $currentLocation = explode("/", $location);
