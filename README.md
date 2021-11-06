@@ -1,3 +1,0 @@
-# immedia-bagisto
-
-# test
